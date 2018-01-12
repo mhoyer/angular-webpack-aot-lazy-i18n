@@ -1,0 +1,9 @@
+{
+  "name": "angular-webpack-aot-lazy-i18n",
+  "version": "0.1.0",
+  "description": "angular seed showing webpack, AoT, lazy-loading, and i18n project",
+  "main": "index.js",
+  "repository": "https://github.com/mhoyer/angular-webpack-aot-lazy-i18n",
+  "author": "Marcel Hoyer <mhoyer@pixelplastic.de>",
+  "license": "MIT"
+}
